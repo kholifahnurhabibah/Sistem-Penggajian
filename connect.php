@@ -6,6 +6,8 @@
     $konek=mysql_connect($host,$user,$password) or die (mysql_error());
     if ($konek) {
     echo "Berhasil";
+    
+        
     }
     else {
     echo "Koneksi php ke database gagal";
