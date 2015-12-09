@@ -21,7 +21,7 @@
           </tr>
            <tr>
             <p align="center"><a href="indexinput.php"><input type="button" value= "Form Input Penggajian"></a></p>
-			<p align="center"><a href="indexoutput.php"><input type="button" value= "Form Output Penggajian"></a></p>
+	    <p align="center"><a href="indexoutput.php"><input type="button" value= "Form Output Penggajian"></a></p>
           </tr>
         </table></td>
     </tr>
