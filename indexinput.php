@@ -27,7 +27,7 @@
 			<p align="center"><a href="inputtunjangan.php"><input name="input" type="button" value= "Form Input Tunjangan"></a></p>
 			<p align="center"><a href="inputjabatan.php"><input name="input" type="button" value= "Form Input Jabatan"></a></p>
 			
-			
+		
 			<p align="center"><a href="inputgaji.php"><input name="input" type="button" value= "Form Input Gaji"></a></p>
           </tr>
 		  <td colspan="2"><a href="index.php"><input type="button" value= "Kembali"></a></td>
